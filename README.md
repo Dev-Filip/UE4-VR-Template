@@ -9,4 +9,6 @@ https://www.worldofleveldesign.com/categories/ue4/ue4-renaming-your-project.php
 
 
 ## License & Copyright
+© Filip Aničić
+
 Licensed under the [MIT License](LICENSE)
