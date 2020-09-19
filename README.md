@@ -1,5 +1,5 @@
 # UE4-VR-Template
-Template for making VR projects in UE4. Create a VR project for Windows or Oculus Quest faster.
+Template for making UE4 VR projects faster for Windows or Oculus Quest.
 
 
 ### How to rename project
