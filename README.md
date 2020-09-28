@@ -3,7 +3,7 @@ Template for making UE4 VR projects faster for Windows or Oculus Quest.
 
 
 ## How to rename project
-https://www.worldofleveldesign.com/categories/ue4/ue4-renaming-your-project.php
+https://isaratech.com/ue4-how-to-rename-an-unreal-engine-project-with-sources-files/
 
 
 
